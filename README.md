@@ -125,10 +125,3 @@ Next, when I tried to stop the development instance, the action was successful. 
 
 ---
 
-## The IAM Policy Simulator
-
-### How I used the simulator
-
----
-
----
